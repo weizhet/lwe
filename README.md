@@ -1,2 +1,1 @@
-# lwe
-assessment
+# Clinic XYZ Assessment
